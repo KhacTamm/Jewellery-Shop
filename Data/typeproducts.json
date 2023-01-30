@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "637fa25baa60034f925a7e3a"
+  },
+  "MaL": "TP01",
+  "name": "Dây chuyền",
+  "products": [
+    {
+      "$oid": "637fa9f0aa60034f925a7e80"
+    },
+    {
+      "$oid": "6380d9f32a5989fe44d981bb"
+    },
+    {
+      "$oid": "637fa5bbaa60034f925a7e48"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669309021498"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669395940221"
+    }
+  },
+  "slug": "day-chuyen",
+  "__v": 72
+},{
+  "_id": {
+    "$oid": "637fa274aa60034f925a7e3e"
+  },
+  "MaL": "TP02",
+  "name": "Bông tai",
+  "products": [
+    {
+      "$oid": "6380d17ff489beacbc9520b8"
+    },
+    {
+      "$oid": "6380d288f489beacbc9520ca"
+    },
+    {
+      "$oid": "6380d31af489beacbc9520d3"
+    },
+    {
+      "$oid": "6380d830f489beacbc952100"
+    },
+    {
+      "$oid": "6380d847f489beacbc952104"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669309044519"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669388539529"
+    }
+  },
+  "slug": "bong-tai",
+  "__v": 19
+},{
+  "_id": {
+    "$oid": "637fa28faa60034f925a7e41"
+  },
+  "MaL": "TP03",
+  "name": "Nhẫn",
+  "products": [
+    {
+      "$oid": "637fab37aa60034f925a7e98"
+    },
+    {
+      "$oid": "637faaaaaa60034f925a7e8e"
+    },
+    {
+      "$oid": "6380d05df489beacbc9520a4"
+    },
+    {
+      "$oid": "637facf9aa60034f925a7eb0"
+    },
+    {
+      "$oid": "6380da9a2a5989fe44d981c4"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669309071941"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669396032638"
+    }
+  },
+  "slug": "nhan",
+  "__v": 180
+},{
+  "_id": {
+    "$oid": "637fa5d3aa60034f925a7e52"
+  },
+  "MaL": "TP04",
+  "name": "Vòng tay",
+  "products": [
+    {
+      "$oid": "6380d5a2f489beacbc9520e1"
+    },
+    {
+      "$oid": "6380d621f489beacbc9520eb"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669309907911"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669396053830"
+    }
+  },
+  "slug": "vong-tay",
+  "__v": 4
+}]

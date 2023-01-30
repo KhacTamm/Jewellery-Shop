@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "63626df515043c57bf0da442"
+  },
+  "username": "Admin",
+  "phone": 999999999,
+  "password": "$2a$10$US/B6e5GSOiCnX2KUYfwg.BiXMOtyiVUkw5GihPylu1G9EsNUe17S",
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667395063224"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667395063224"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637630f09cdb96d77d5dd67f"
+  },
+  "username": "Khac Tam",
+  "phone": 368349518,
+  "address": "Xuân Khánh, Ninh Kiều TP Cần Thơ",
+  "password": "$2a$10$OZYo/x8TfCBPlQ9KuHyqLeNilLV1ch.jJgQNoK3czaysfJU6ar5WG",
+  "role": "basic",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668690160288"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668690160288"
+    }
+  },
+  "__v": 0
+}]

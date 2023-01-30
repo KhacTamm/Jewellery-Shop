@@ -1,0 +1,147 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
+  
+.js-center {
+    width: 380px;
+} */
+
+.wapperaccount {
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.js-center {
+  width: 380px;
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.err {
+  font-size: 0.9rem;
+  color: rgb(255, 0, 0);
+}
+
+.titleAccount {
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.login ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 6px;
+}
+
+.login ul li {
+  width: 100%;
+  height: 48px;
+  margin: 12px 0;
+  border: 1px solid #999999;
+}
+
+.login ul li input {
+  background-color: transparent;
+  padding: 0 6px;
+}
+
+.text {
+  width: 100%;
+  height: 100%;
+  padding: 6px;
+  outline: none;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.form-login {
+  height: 42px;
+  margin-top: 14px;
+  width: 100%;
+}
+
+.form-login .login {
+  background-color: var(--backg);
+  width: 100%;
+  height: 100%;
+  padding: 6px;
+  font-weight: 700;
+  cursor: pointer;
+  text-align: center;
+}
+
+.form-login .login:hover {
+  opacity: 0.8;
+}
+
+.rep_pas {
+  margin-top: 12px;
+}
+
+.rep_pas a {
+  font-size: 0.9rem;
+  color: #666666;
+}
+
+.rep_pas a:hover {
+  color: #000000;
+}
+
+.page-login__thirdPartLogin_line {
+  position: relative;
+  color: #b2b2b2;
+  padding: 6px 0;
+  font-size: 1rem;
+}
+
+.page-login__thirdPartLogin_line::before {
+  content: "";
+  width: 44%;
+  height: 1px;
+  background: #b2b2b2;
+  position: absolute;
+  top: 50%;
+  left: 0;
+}
+
+.page-login__thirdPartLogin_line::after {
+  content: "";
+  width: 44%;
+  height: 1px;
+  background: #b2b2b2;
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+
+.page-login__thirdPartLogin_line span {
+  padding-left: 45%;
+}
+
+.register {
+  font-size: 0.9rem;
+  color: #666666;
+  text-align: center;
+}
+
+.register a {
+  font-size: 1rem;
+  color: #0000ff;
+  font-weight: 700;
+}
+
+.register a:hover {
+  opacity: 0.8;
+  text-decoration-line: underline;
+}
+
+.error-feedback {
+  font-size: 0.8rem;
+  text-align: left;
+}

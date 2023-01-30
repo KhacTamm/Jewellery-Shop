@@ -1,0 +1,481 @@
+[{
+  "_id": {
+    "$oid": "637fa5bbaa60034f925a7e48"
+  },
+  "name": "Vòng cổ dây chuyền bạc đính đa lấp lánh dây chuyền nữ",
+  "img": [
+    "daychuyen_3.1.jpg",
+    "daychuyen_3.2.jpg",
+    "daychuyen_3.3.jpg",
+    "daychuyen_3.4.jpg"
+  ],
+  "BaPrice": 150000,
+  "PrPrice": 120000,
+  "type": {
+    "_id": "637fa25baa60034f925a7e3a",
+    "name": "Dây chuyền"
+  },
+  "brand": "Velastro",
+  "material": "Bạc, Thép",
+  "style": "Unisex",
+  "quantity": 100,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669309884344"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669395940134"
+    }
+  },
+  "slug": "vong-co-day-chuyen-bac-dinh-da-lap-lanh-day-chuyen-nu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637fa9f0aa60034f925a7e80"
+  },
+  "name": "Vòng cổ Mặt Trăng Khuyết Thiết Kế Đơn Giản Thời Trang Cho Nữ",
+  "img": [
+    "daychuyen_2.4.jpg",
+    "daychuyen_2.3.jpg",
+    "daychuyen_2.2.jpg",
+    "daychuyen_2.1.jpg"
+  ],
+  "BaPrice": 150000,
+  "PrPrice": 120000,
+  "type": {
+    "_id": "637fa25baa60034f925a7e3a",
+    "name": "Dây chuyền"
+  },
+  "brand": "Velastro",
+  "material": "Bạc",
+  "style": "Unisex",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669310961639"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669384713272"
+    }
+  },
+  "slug": "vong-co-mat-trang-khuyet-thiet-ke-don-gian-thoi-trang-cho-nu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637faaaaaa60034f925a7e8e"
+  },
+  "name": "Bộ 2 nhẫn X.O chữ la mã hy lạp đeo tay nam nữ trang sức",
+  "img": [
+    "nhan_1.4.jpg",
+    "nhan_1.3.jpg",
+    "nhan_1.5.jpg",
+    "nhan_1.2.jpg"
+  ],
+  "BaPrice": 120000,
+  "PrPrice": 100000,
+  "type": {
+    "_id": "637fa28faa60034f925a7e41",
+    "name": "Nhẫn"
+  },
+  "brand": "Velastro",
+  "material": "Bạc, Thép",
+  "style": "Unisex",
+  "quantity": 250,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669311146893"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669385836947"
+    }
+  },
+  "slug": "bo-2-nhan-x-o-chu-la-ma-hy-lap-deo-tay-nam-nu-trang-suc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637fab37aa60034f925a7e98"
+  },
+  "name": "Bộ 2 nhẫn vuông nam nữ thời trang hàn quốc đơn giản bạc ",
+  "img": [
+    "nhan_2.2.jpg",
+    "nhan_2.1.jpg",
+    "nhan_2.3.jpg",
+    "nhan_2.4.jpg"
+  ],
+  "BaPrice": 150000,
+  "PrPrice": 120000,
+  "type": {
+    "_id": "637fa28faa60034f925a7e41",
+    "name": "Nhẫn"
+  },
+  "brand": "Velastro",
+  "material": "Bạc, Thép",
+  "style": "Unisex",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669311287352"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669384306659"
+    }
+  },
+  "slug": "bo-2-nhan-vuong-nam-nu-thoi-trang-han-quoc-don-gian-bac",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637facf9aa60034f925a7eb0"
+  },
+  "name": "Bộ 2 nhẫn thời trang đính đá trái tim đen tay nam nữ",
+  "img": [
+    "nhan_3.1.jpg",
+    "nhan_3.2.jpg",
+    "nhan_3.3.jpg",
+    "nhan_3.4.jpg",
+    "nhan_3.5.jpg"
+  ],
+  "BaPrice": 120000,
+  "PrPrice": 100000,
+  "type": {
+    "_id": "637fa28faa60034f925a7e41",
+    "name": "Nhẫn"
+  },
+  "brand": "Velastro",
+  "material": "Thép, Titanium, Bismuth & Nam châm",
+  "style": "Unisex",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669311737865"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669396007545"
+    }
+  },
+  "slug": "bo-2-nhan-thoi-trang-dinh-da-trai-tim-den-tay-nam-nu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380d05df489beacbc9520a4"
+  },
+  "name": "Nhẫn đính đá vuông đeo tay nữ nam thời trang hàn quốc",
+  "img": [
+    "nhan_5.2.jpg",
+    "nhan_5.1.jpg",
+    "nhan_5.3.jpg"
+  ],
+  "BaPrice": 90000,
+  "PrPrice": 75000,
+  "type": {
+    "_id": "637fa28faa60034f925a7e41",
+    "name": "Nhẫn"
+  },
+  "brand": "Velastro",
+  "material": "Bạc, Thép",
+  "style": "Unisex",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669386333787"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669386333787"
+    }
+  },
+  "slug": "nhan-dinh-da-vuong-deo-tay-nu-nam-thoi-trang-han-quoc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380d17ff489beacbc9520b8"
+  },
+  "name": "Khuyên tai tròn xoắn bông tai nam nữ 2022",
+  "img": [
+    "bongtai_1.3.jpg",
+    "bongtai_1.2.jpg",
+    "bongtai_1.4.jpg",
+    "bongtai_1.5.jpg",
+    "bongtai_1.6.jpg",
+    "bongtai_1.1.jpg"
+  ],
+  "BaPrice": 120000,
+  "PrPrice": 110000,
+  "type": {
+    "_id": "637fa274aa60034f925a7e3e",
+    "name": "Bông tai"
+  },
+  "brand": "Velastro",
+  "material": "Bạc",
+  "style": "Unisex",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669386623216"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669386623216"
+    }
+  },
+  "slug": "khuyen-tai-tron-xoan-bong-tai-nam-nu-2022",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380d288f489beacbc9520ca"
+  },
+  "name": "Set 3 Khuyên Tai Tròn Đơn Giản Thời Trang",
+  "img": [
+    "bongtai_2.3.jpg",
+    "bongtai_2.2.jpg",
+    "bongtai_2.4.jpg"
+  ],
+  "BaPrice": 120000,
+  "PrPrice": 100000,
+  "type": {
+    "_id": "637fa274aa60034f925a7e3e",
+    "name": "Bông tai"
+  },
+  "brand": "Velastro",
+  "material": "Bạc",
+  "style": "Unisex",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669386888163"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669386888163"
+    }
+  },
+  "slug": "set-3-khuyen-tai-tron-don-gian-thoi-trang",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380d31af489beacbc9520d3"
+  },
+  "name": "Bông Tai Mạ Bạc Kiểu Dáng Đơn Giản",
+  "img": [
+    "bongtai_3.1.jpg",
+    "bongtai_3.2.jpg",
+    "bongtai_3.3.jpg",
+    "bongtai_3.4.jpg",
+    "bongtai_3.5.jpg",
+    "bongtai_3.6.jpg"
+  ],
+  "BaPrice": 100000,
+  "PrPrice": 99000,
+  "type": {
+    "_id": "637fa274aa60034f925a7e3e",
+    "name": "Bông tai"
+  },
+  "brand": "Velastro",
+  "material": "Mạ kim loại",
+  "style": "Unisex",
+  "quantity": 250,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669387034314"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669387034314"
+    }
+  },
+  "slug": "bong-tai-ma-bac-kieu-dang-don-gian",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380d5a2f489beacbc9520e1"
+  },
+  "name": "Vòng Tay Thiết Kế Mới Ngọt Ngào Xinh Xắn Thời Trang Dành Cho Nữ",
+  "img": [
+    "Vongtai1.1.jpg",
+    "Vongtai1.2.jpg",
+    "Vongtai1.3.jpg",
+    "Vongtai1.5.jpg"
+  ],
+  "BaPrice": 140000,
+  "PrPrice": 125000,
+  "type": {
+    "_id": "637fa5d3aa60034f925a7e52",
+    "name": "Vòng tay"
+  },
+  "brand": "Velastro",
+  "material": "Thép, Titanium, Bismuth & Nam châm",
+  "style": "Bánh bèo",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669387683170"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669387683170"
+    }
+  },
+  "slug": "vong-tay-thiet-ke-moi-ngot-ngao-xinh-xan-thoi-trang-danh-cho-nu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380d621f489beacbc9520eb"
+  },
+  "name": "Vòng đeo tay hợp kim thiết kế hình học phong cách Hàn Quốc dễ thương",
+  "img": [
+    "Vongtai2.3.jpg",
+    "Vongtai2.4.jpg",
+    "Vongtai2.1.jpg",
+    "Vongtai2.2.jpg"
+  ],
+  "BaPrice": 160000,
+  "PrPrice": 140000,
+  "type": {
+    "_id": "637fa5d3aa60034f925a7e52",
+    "name": "Vòng tay"
+  },
+  "brand": "Velastro",
+  "material": "Bạc",
+  "style": "Unisex",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669387809925"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669396053713"
+    }
+  },
+  "slug": "vong-deo-tay-hop-kim-thiet-ke-hinh-hoc-phong-cach-han-quoc-de-thuong",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380d830f489beacbc952100"
+  },
+  "name": "Bông Tai Cao Cấp Cảm Giác Chạm Vào Mùa Hè Cho Nữ",
+  "img": [
+    "bongtai_5.1.jpg",
+    "bongtai_5.2.jpg",
+    "bongtai_5.3.jpg"
+  ],
+  "BaPrice": 120000,
+  "PrPrice": 100000,
+  "type": {
+    "_id": "637fa274aa60034f925a7e3e",
+    "name": "Bông tai"
+  },
+  "brand": "Velastro",
+  "material": "Thép, Titanium, Bismuth & Nam châm",
+  "style": "Unisex",
+  "quantity": 200,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669388336250"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669388336250"
+    }
+  },
+  "slug": "bong-tai-cao-cap-cam-giac-cham-vao-mua-he-cho-nu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380d9f32a5989fe44d981bb"
+  },
+  "name": "Dây Chuyền Mặt Hình Giọt Nước Đính Đá Zircon Thời Trang Cho Nữ",
+  "img": [
+    "daychuyen_1.2.jpg",
+    "daychuyen_1.3.jpg",
+    "daychuyen_1.4.jpg",
+    "daychuyen_1.5.jpg"
+  ],
+  "BaPrice": 120000,
+  "PrPrice": 100000,
+  "type": {
+    "_id": "637fa25baa60034f925a7e3a",
+    "name": "Dây chuyền"
+  },
+  "brand": "Velastro",
+  "material": "Mạ kim loại",
+  "style": "Tiểu thư",
+  "quantity": 100,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669388787929"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669388787929"
+    }
+  },
+  "slug": "day-chuyen-mat-hinh-giot-nuoc-dinh-da-zircon-thoi-trang-cho-nu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380da9a2a5989fe44d981c4"
+  },
+  "name": "Combo 3 nhẫn thời trang phong cách hàn quốc",
+  "img": [
+    "nhan_6.1.jpg",
+    "nhan_6.2.jpg",
+    "nhan_6.3.jpg",
+    "nhan_6.4.jpg",
+    "nhan_6.5.jpg",
+    "nhan_6.6.jpg"
+  ],
+  "BaPrice": 150000,
+  "PrPrice": 140000,
+  "type": {
+    "_id": "637fa28faa60034f925a7e41",
+    "name": "Nhẫn"
+  },
+  "brand": "Velastro",
+  "material": "Bạc",
+  "style": "Unisex",
+  "quantity": 150,
+  "description": "Thời gian giao hàng dự kiến cho sản phẩm này là từ 7-9 ngày.\n\nĐảm bảo sự hài lòng 100% và đảm bảo chất lượng sản phẩm cao cấp!\nBạn thân mến, nếu có vấn đề sau khi nhận hàng, giao hàng sai số lượng, hậu cần chậm hay hàng bị lỗi, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào để xử lý vấn đề đó!\nChúng tôi sẽ cố gắng hết sức để làm hài lòng bạn, đừng vội đưa ra những đánh giá tiêu cực, cảm ơn bạn rất nhiều!\n\nHƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN\n1.Tránh để trang sức tiếp xúc với hoá chất, chất tẩy rửa mạnh, có thể làm sáng trang sức bằng cách chà kem đánh răng, nước rửa bát, nước chanh...\n2.Thường xuyên vệ sinh trang sức băng khăn làm sáng, que làm sáng (phụ kiện vệ sinh sản phẩm của shop) nên vệ sinh nhẫn bạc thường xuyên bằng nước rửa bạc 1-3 tháng/lần để đảm bảo sản phẩm luôn được sáng bóng.\n3.Khi không đeo, bảo quản trang sức nơi khô ráo, tránh ánh nắng trực tiếp, nơi có nhiệt độ cao hoặc ẩm thấp.\n4.Nên để trang sức trong túi zip, thêm 1 miếng bông gòn nhỏ để hút ẩm giúp bảo quản tốt hơn.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669388954541"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669396032498"
+    }
+  },
+  "slug": "combo-3-nhan-thoi-trang-phong-cach-han-quoc",
+  "__v": 0
+}]

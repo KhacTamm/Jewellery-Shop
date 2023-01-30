@@ -1,0 +1,91 @@
+.titileAdminView h3 {
+    background-color: rgba(216, 216, 216, 0.8);
+    padding: 12px 24px;
+}
+
+.wapperAdmin {
+    padding: 0 24px;
+}
+  
+.mt-4 {
+    width: 100%;
+}
+  
+.tm {
+    height: 40px;
+    margin-bottom: 24px;
+    align-items: center;
+}
+
+.type {
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.form-label {
+    padding-right: 30px ;
+}
+  
+.categorySize {
+    display: flex;
+}
+  
+.categorySizeItem {
+    padding-right: 60px;
+}
+
+.sumImg {
+    padding: 12px 0;
+    display: flex;
+}
+  
+.FileNameItem {
+    color: #000;
+    padding: 6px;
+}
+
+.imgProduct {
+  width: 80px;
+  padding-top: 0;
+  background-position: 50%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+    
+}
+.error-feedback {
+    color: rgb(255, 0, 0);
+}
+  
+.btnSM {
+    float: right;
+    padding: 0 12px;
+}
+  
+.btn {
+    border: none;
+}
+  
+.btn-primary {
+    padding: 12px 24px;
+    background-color: var(--text-color);
+}
+  
+.add_color {
+    text-align: right;
+    padding: 0 28px;
+    cursor: pointer;
+}
+  
+.description {
+    height: 180px;
+}
+
+.checkbox-select-all-options {
+    /* width: 300px;  */
+    width: 185px  !important;
+    font-size: 1rem;
+    padding: 0.25rem 0.5rem;
+    /* background-color: transparent; */
+}
